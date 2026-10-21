@@ -67,7 +67,7 @@ A movie recommendation website that helps users discover movies using data from 
 
 **Technologies:** React, Tailwind CSS, TMDB API
 
-[View Repository](YOUR_BINGEBOX_REPOSITORY_URL)
+[View Repository](https://github.com/lindaopolo7896/BingeBox)
 
 ### Votex
 
@@ -75,7 +75,7 @@ A voting application combining a React frontend with a Django backend.
 
 **Technologies:** React, Django, Python
 
-[View Repository](YOUR_VOTEX_REPOSITORY_URL)
+[View Repository](https://github.com/lindaopolo7896/Online-Voting-System)
 
 ### Pageturner
 
@@ -99,9 +99,9 @@ I'm continuously exploring new technologies, experimenting with ideas, and build
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lindaopolo7896&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindaopolo7896&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
 
