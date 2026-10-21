@@ -83,7 +83,7 @@ A mobile application focused on book discovery, organized book collections, and 
 
 **Technologies:** Kotlin, Jetpack Compose, Android
 
-[View Repository](YOUR_PAGETURNER_REPOSITORY_URL)
+[View Repository](https://github.com/lindaopolo7896/pageTurn)
 
 ---
 
@@ -91,7 +91,7 @@ A mobile application focused on book discovery, organized book collections, and 
 
 I'm continuously exploring new technologies, experimenting with ideas, and building applications to strengthen my development skills.
 
-[Explore All Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+[Explore All Repositories](https://github.com/lindaopolo7896?tab=repositories)
 
 ---
 
